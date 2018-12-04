@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:lightgray;
+}
+
+h1
+{text-align: center;}
+h2
+{text-align: center;}
+h3
+{text-align: center;}
+
+.p1 {text-align: center;
+}
+.textarea_email {width:600px; height: auto;
+}
+
+.dropdown1 {width: auto; height: auto;
+}
+.namebox {width: 600; height: auto;
+}
+.commentbox
+{
+	width: 600; height: auto;
+}
